@@ -1,2 +1,2 @@
 # Adaptively-Connected-Neural-Networks-Pytorch
-The pytorch version of "Adaptively Connected Neural Networks".
+The pytorch implementation of "Adaptively Connected Neural Networks".
